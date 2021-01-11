@@ -1,10 +1,10 @@
 # Covid-info
-beginner at python flexing some code
+beginner at python flexing some code /n
 
-The following code files represent some work from a budding data scientist
-A simple choropleth map of the United States shaded by case count per county is in visualizations
-Linear Regressions and with calculations that update to most recent covid number from NYT
-Some seaborns line plots charting growth rates over the covid 19 saga
+The following code files represent some work from a budding data scientist /n
+A simple choropleth map of the United States shaded by case count per county is in visualizations /n
+Linear Regressions and with calculations that update to most recent covid number from NYT /n
+Some seaborns line plots charting growth rates over the covid 19 saga /n
 
 
 Note about the csvs:
