@@ -12,7 +12,7 @@ Some seaborns line plots charting growth rates over the covid 19 saga
 
 Note about the csvs:
 
-You may have to load the csv's into the datasets by adjusting the string within the pd.read_csv function. 
+You will need to load the csvs into the datasets for two of the ipynb:  by adjusting the string within the pd.read_csv function. 
 Formated files for mask mandates coming from masks4all.co.
 
 finalizederest.csv is a file compiling information from the Census Bureau 2010 census on Land area, 2019 population estimates, and age demographic estimates.
